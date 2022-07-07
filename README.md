@@ -16,4 +16,5 @@ Skills
 
 
 Reach me
+![ui ux](https://user-images.githubusercontent.com/89037292/177780122-519a3694-9158-4fe7-a17f-970a523d8419.jpg)
 
