@@ -1,4 +1,3 @@
-![ux](https://user-images.githubusercontent.com/89037292/177781419-e271760c-cefe-48bc-8e63-39b1d504d076.png)
 Hi there 👋
 
 About Me
@@ -13,9 +12,9 @@ Skills
 ![react](https://user-images.githubusercontent.com/89037292/177779104-db868c6d-254e-48b6-9e18-1731778443b3.png)
 ![node](https://user-images.githubusercontent.com/89037292/177779173-320218a0-61c5-4cfa-8b3e-16c34761b624.png)
 ![mongodb](https://user-images.githubusercontent.com/89037292/177779218-c393b233-31d7-4d4d-94c8-250d4df1f65d.png)
+![ux](https://user-images.githubusercontent.com/89037292/177781419-e271760c-cefe-48bc-8e63-39b1d504d076.png)
 
 
 
 Reach me
-![ui ux](https://user-images.githubusercontent.com/89037292/177780122-519a3694-9158-4fe7-a17f-970a523d8419.jpg)
 
