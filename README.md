@@ -14,6 +14,7 @@ Skills
 ![react](https://user-images.githubusercontent.com/89037292/177779104-db868c6d-254e-48b6-9e18-1731778443b3.png)
 ![node](https://user-images.githubusercontent.com/89037292/177779173-320218a0-61c5-4cfa-8b3e-16c34761b624.png)
 ![mongodb](https://user-images.githubusercontent.com/89037292/177779218-c393b233-31d7-4d4d-94c8-250d4df1f65d.png)
+![express](https://user-images.githubusercontent.com/89037292/177782458-dc2231ee-da9d-40b8-a947-b79ec5bee602.png)
 
 
 
