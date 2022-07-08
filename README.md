@@ -1,11 +1,12 @@
 Hi there 👋
 
-About Me
+<b>About Me</b>
 I'm Muskan Lalani "Web developer with a bit of designer's eyes".
 Currently learning MERN stack development and 
 Contributing to open source communities too.
 
-Skills
+<b>Skills</b>
+<hr>
 ![html](https://user-images.githubusercontent.com/89037292/177778485-08ed5715-ea4c-4e12-be34-82a9b3f68615.png)
 ![css](https://user-images.githubusercontent.com/89037292/177779012-305cbae9-d457-43cb-a3f6-0ac13dfaffbf.png)
 ![js](https://user-images.githubusercontent.com/89037292/177779056-d5c626f8-0867-4dec-8451-70c699b7689e.png)
