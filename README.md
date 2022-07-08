@@ -27,4 +27,4 @@ Contributing to open source communities too.
 <br>
 <a href="https://www.linkedin.com/in/muskan-lalani-053120210"><img src="![linkedin](https://user-images.githubusercontent.com/89037292/178009593-ce25e6dc-0703-4470-983a-137c2752a01c.png)" width="48px" height="48px"/></a>
 </br>
-<a href="https://www.instagram.com/in/_muskan111_">Insta</a>
+<a href="https://www.instagram.com/_muskan111_/"</a>
