@@ -1,6 +1,7 @@
 Hi there 👋
 
 <b>About Me</b>
+<br>
 I'm Muskan Lalani "Web developer with a bit of designer's eyes".
 Currently learning MERN stack development and 
 Contributing to open source communities too.
