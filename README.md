@@ -24,5 +24,7 @@ Contributing to open source communities too.
 
 
 <b>Reach me</b>
+<br>
 <a href="https://www.linkedin.com/in/muskan-lalani-053120210"><img align="left" src="![linkedin](https://user-images.githubusercontent.com/89037292/178008293-6749e3b1-58bb-47ce-b0f9-702608bdbd28.png)" width="48px"/></a>
+</br>
 
