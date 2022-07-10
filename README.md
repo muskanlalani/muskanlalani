@@ -3,15 +3,13 @@ Hi there 👋
 <b>About Me</b>
 <br>
 I'm Muskan Lalani "Web developer with a bit of designer's eyes".
-Currently learning MERN stack development and 
-Contributing to open source communities too.
+Currently learning MERN stack development
 
 <b>Skills</b>
 
 ![html](https://user-images.githubusercontent.com/89037292/177778485-08ed5715-ea4c-4e12-be34-82a9b3f68615.png)
 ![css](https://user-images.githubusercontent.com/89037292/177779012-305cbae9-d457-43cb-a3f6-0ac13dfaffbf.png)
 ![js](https://user-images.githubusercontent.com/89037292/177779056-d5c626f8-0867-4dec-8451-70c699b7689e.png)
-![ui ux2](https://user-images.githubusercontent.com/89037292/177784777-0bfb1299-0ff7-4771-87a8-fa39335db5ac.png)
 
 
 
@@ -25,6 +23,6 @@ Contributing to open source communities too.
 
 <b>Reach me</b>
 <br>
-<a href="https://www.linkedin.com/in/muskan-lalani-053120210"><img src="![image](https://user-images.githubusercontent.com/89037292/178013296-60d52862-7d54-40dc-8e19-5c860e8ed05e.png)" width="48px" height="48px"/></a>
+<a href="https://www.linkedin.com/in/muskan-lalani-053120210">Linkedin</a>
 </br>
-<a href="https://www.instagram.com/_muskan111_/"><img src="https://www.flaticon.com/free-icons/instagram" alt="Instagram" height="48px" width="48px"/></a>
+<a href="https://www.instagram.com/_muskan111_/">Instagram</a>
