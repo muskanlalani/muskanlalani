@@ -2,8 +2,9 @@ Hi there 👋
 
 <b>About Me</b>
 <br>
-I'm Muskan Lalani "Web developer with a bit of designer's eyes".<br>
-Currently learning MERN stack development
+I'm Muskan Lalani 
+"MERN Stack Developer with a bit of designer's eyes".<br>
+
 
 <b>Skills</b>
 
