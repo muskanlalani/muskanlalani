@@ -2,7 +2,7 @@ Hi there 👋
 
 <b>About Me</b>
 <br>
-I'm Muskan Lalani 
+I am Muskan Lalani 
 "MERN Stack Developer with a bit of designer's eyes".<br>
 
 
